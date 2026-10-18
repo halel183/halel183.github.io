@@ -9,7 +9,9 @@ function App() {
     { path: "/", element: <Home /> },
     { path: "/About", element: <About /> },
     { path: "/Projects", element: <Projects /> }
-  ]);
+  ], {
+  basename: "/halel183.github.io"
+  });
 
   return (<RouterProvider router={router} />);
 }
