@@ -1,4 +1,4 @@
-import { ActionBar, Link, PageLayout } from '@primer/react';
+import { PageLayout } from '@primer/react';
 import { Text } from '@primer/react-brand';
 
 function Footer() {
