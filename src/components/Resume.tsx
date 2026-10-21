@@ -4,7 +4,7 @@ import { Document, Page, pdfjs } from 'react-pdf';
 import 'react-pdf/dist/Page/AnnotationLayer.css';
 import 'react-pdf/dist/Page/TextLayer.css';
 import {ArrowDownIcon} from '@primer/octicons-react'
-import { Text, Heading, Button } from '@primer/react-brand';
+import { Button } from '@primer/react-brand';
 import NavBar from './NavBar';
 import Footer from './Footer';
 import resume from '../assets/AsfawHResume2026.pdf';
