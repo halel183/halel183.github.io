@@ -1,0 +1,17 @@
+.home-page {
+  background-color: var(--bgColor-attention-muted);
+} 
+
+.home-title {
+  font-family: var(--fontStack-monospace);
+  font-size: var(--text-body-shorthand-large);
+}
+
+.river-image {
+  border-radius: 0px !important;
+}
+
+
+button {
+  border-radius: 0px !important;
+}

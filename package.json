@@ -13,8 +13,13 @@
   "dependencies": {
     "@headlessui/react": "^2.2.10",
     "@heroicons/react": "^2.2.0",
+    "@primer/react": "^38.42.0",
+    "@primer/react-brand": "^0.79.0",
+    "@react-pdf/renderer": "^4.9.0",
+    "file-saver": "^2.0.5",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
+    "react-pdf": "^11.0.0",
     "react-router-dom": "^7.18.2",
     "tailwindcss": "^4.3.0"
   },
@@ -31,5 +36,8 @@
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }

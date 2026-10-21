@@ -1,0 +1,7 @@
+.resume-content {
+    width: 1000px;
+    iframe {
+    background-color: transparent; /* Or set to #ffffff for pure white */
+    border: none;
+}
+}
